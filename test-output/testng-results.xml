@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-31T05:56:19Z" name="Default suite" finished-at="2023-10-31T05:56:36Z" duration-ms="16502">
+    <groups>
+    </groups>
+    <test started-at="2023-10-31T05:56:19Z" name="Default test" finished-at="2023-10-31T05:56:36Z" duration-ms="16502">
+      <class name="com.example.api.Authentication_API">
+        <test-method signature="test_API_With_INvalid_Username_and_Valid_Password()[pri:0, instance:com.example.api.Authentication_API@413f69cc]" started-at="2023-10-31T05:56:19Z" name="test_API_With_INvalid_Username_and_Valid_Password" finished-at="2023-10-31T05:56:22Z" duration-ms="2659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_API_With_INvalid_Username_and_Valid_Password -->
+        <test-method signature="test_API_With_Null_Username_and_Null_Password()[pri:0, instance:com.example.api.Authentication_API@413f69cc]" started-at="2023-10-31T05:56:22Z" name="test_API_With_Null_Username_and_Null_Password" finished-at="2023-10-31T05:56:24Z" duration-ms="2324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_API_With_Null_Username_and_Null_Password -->
+        <test-method signature="test_API_With_Null_Username_and_Valid_Password()[pri:0, instance:com.example.api.Authentication_API@413f69cc]" started-at="2023-10-31T05:56:24Z" name="test_API_With_Null_Username_and_Valid_Password" finished-at="2023-10-31T05:56:26Z" duration-ms="2384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_API_With_Null_Username_and_Valid_Password -->
+        <test-method signature="test_API_With_Valid_Credentials()[pri:0, instance:com.example.api.Authentication_API@413f69cc]" started-at="2023-10-31T05:56:26Z" name="test_API_With_Valid_Credentials" finished-at="2023-10-31T05:56:31Z" duration-ms="4400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_API_With_Valid_Credentials -->
+        <test-method signature="test_API_With_Valid_Username_and_Invalid_Password()[pri:0, instance:com.example.api.Authentication_API@413f69cc]" started-at="2023-10-31T05:56:31Z" name="test_API_With_Valid_Username_and_Invalid_Password" finished-at="2023-10-31T05:56:33Z" duration-ms="2470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_API_With_Valid_Username_and_Invalid_Password -->
+        <test-method signature="test_API_With_Valid_Username_and_Null_Password()[pri:0, instance:com.example.api.Authentication_API@413f69cc]" started-at="2023-10-31T05:56:33Z" name="test_API_With_Valid_Username_and_Null_Password" finished-at="2023-10-31T05:56:36Z" duration-ms="2236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_API_With_Valid_Username_and_Null_Password -->
+      </class> <!-- com.example.api.Authentication_API -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
